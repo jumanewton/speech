@@ -1,0 +1,16 @@
+jupyterlab
+notebook
+numpy
+scipy
+librosa
+soundfile
+matplotlib
+pandas
+scikit-learn
+torch
+torchaudio
+transformers
+datasets
+accelerate
+openai
+git+https://github.com/openai/whisper.git
